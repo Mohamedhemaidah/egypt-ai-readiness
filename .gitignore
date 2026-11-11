@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+ai_readiness.db
+.streamlit/secrets.toml
+data/original_google_forms_responses.xlsx
+data/reliability_summary.csv
