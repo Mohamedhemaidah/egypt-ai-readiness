@@ -1,0 +1,6 @@
+﻿Dimension,Items,N,Cronbach_alpha,Lowest_corrected_item_total_correlation,Lowest_item_column,Alpha_if_lowest_item_removed
+Technology and Data Readiness,Q1-Q6,27,0.8842512433228955,0.524061135425433,Q4 - Our systems can share data when needed.,0.8889590992647058
+Organizational Readiness,Q7-Q12,27,0.892068429237947,0.6288717644004591,Q9 - Our organization has enough resources for AI projects.,0.8874413538873995
+People and Skills,Q13-Q18,27,0.8753751794336421,0.5242189571356414,Q17 - Our organization can develop the skills needed to support future AI applications.,0.8793840889649274
+"Governance, Regulation and Environment",Q19-Q24,27,0.8580193756727665,0.4529214049292241,Q23 - Our organization has clear procedures for protecting sensitive or confidential data.,0.8722222222222222
+Public Value and Digital-Service Readiness,Q25-Q30,27,0.7924851950173576,0.2829965750941122,Q25 - Our organization has digital services that could support AI.,0.8245424504321303
